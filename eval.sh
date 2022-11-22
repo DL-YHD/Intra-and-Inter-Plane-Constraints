@@ -1,0 +1,1 @@
+python ./src/tools/kitti-object-eval-python/evaluate.py evaluate --label_path=./kitti_format/data/kitti/training/label_2/ --label_split_file ./kitti_format/data/kitti/val_split_1.txt --current_class=0,1,2 --coco=False --result_path=./kitti_format/exp/results/data/
