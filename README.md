@@ -82,8 +82,7 @@ Run following command for visualization.
 You can modify the parameters in the .sh file
 
 ## pre-trained model
-We provide our pre-trained model with the following link to Google Cloud Drive:
-https://drive.google.com/file/d/1Y6dDGk5jp4cuUPF-oE2UiWUztuo1ggqk/view?usp=sharing
+We provide our pre-trained model with the following link to Google Cloud Drive:[Google Cloud Drive](https://drive.google.com/file/d/1Y6dDGk5jp4cuUPF-oE2UiWUztuo1ggqk/view?usp=sharing)
 
 ## Acknowledgement
 - [**KM3D**](https://github.com/Banconxuan/RTM3D)
