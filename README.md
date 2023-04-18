@@ -93,5 +93,15 @@ Portions of the code are borrowed from, [KM3D](https://github.com/Banconxuan/RTM
 ## Citation
 
 If you find this project useful for your research, please use the following BibTeX entry.
-
+~~~
+@article{yao2023vertex,
+  title={Vertex points are not enough: Monocular 3D object detection via intra-and inter-plane constraints},
+  author={Yao, Hongdou and Chen, Jun and Wang, Zheng and Wang, Xiao and Chai, Xiaoyu and Qiu, Yansheng and Han, Pengfei},
+  journal={Neural Networks},
+  volume={162},
+  pages={350--358},
+  year={2023},
+  publisher={Elsevier}
+}
+~~~
     
